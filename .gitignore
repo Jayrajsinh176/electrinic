@@ -1,0 +1,5 @@
+.env
+.env.*
+!.env.example
+/documents/882052107452880_signed.pdf
+/documents/88305930392971_signed.pdf

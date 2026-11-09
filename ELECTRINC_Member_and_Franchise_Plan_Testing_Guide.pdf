@@ -1,0 +1,794 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R] /Count 6 >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 7 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> >>
+endobj
+7 0 obj
+<< /Length 9603 >>
+stream
+1 w 0.080 0.130 0.240 rg 0.200 0.300 0.500 RG 40.00 744.89 515.28 52.00 re B
+BT /F2 15 Tf 1.000 1.000 1.000 rg 1 0 0 1 54.00 772.89 Tm (ELECTRINC \(IND\) PLATFORM MANUAL) Tj ET
+BT /F1 9.5 Tf 0.700 0.800 0.950 rg 1 0 0 1 54.00 756.89 Tm (Member Panel & Franchise Panel Master Testing Guide & Business Plan Reference) Tj ET
+0.7 w 0.920 0.940 0.980 rg 0.700 0.780 0.900 RG 40.00 704.89 515.28 22.00 re B
+0.5 w 0.100 0.350 0.800 rg 40.00 704.89 4.00 22.00 re f
+BT /F2 10.5 Tf 0.080 0.180 0.400 rg 1 0 0 1 52.00 710.89 Tm (1. CLIENT QUICK ACCESS & LOGIN CHEAT SHEET) Tj ET
+BT /F2 8.5 Tf 0.200 0.500 0.200 rg 1 0 0 1 465.28 710.89 Tm (LIVE SERVER) Tj ET
+0.8 w 0.940 0.970 1.000 rg 0.200 0.400 0.800 RG 40.00 662.89 515.28 32.00 re B
+BT /F2 9 Tf 0.100 0.200 0.500 rg 1 0 0 1 50.00 679.89 Tm (LIVE PRODUCTION DOMAIN:) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.350 rg 1 0 0 1 50.00 668.89 Tm (https://electrinic.ttitanx.io  |  Hosted on Hostinger Cloud Infrastructure) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 40.00 634.89 75.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 46.00 640.89 Tm (Portal Name) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 115.00 634.89 175.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 121.00 640.89 Tm (Direct URL) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 290.00 634.89 80.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 296.00 640.89 Tm (User / Code ID) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 370.00 634.89 85.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 376.00 640.89 Tm (Default Password) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 455.00 634.89 100.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 461.00 640.89 Tm (Role / Status) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 40.00 616.89 75.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 621.89 Tm (Member Login) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 115.00 616.89 175.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 121.00 621.89 Tm (electrinic.ttitanx.io/member/login.php) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 290.00 616.89 80.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 296.00 621.89 Tm (NA7915191) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 370.00 616.89 85.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 376.00 621.89 Tm (123456) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 455.00 616.89 100.00 18.00 re B
+BT /F2 8.2 Tf 0.100 0.500 0.200 rg 1 0 0 1 461.00 621.89 Tm (Active Top Leader) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 40.00 598.89 75.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 603.89 Tm (Member 2) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 115.00 598.89 175.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 121.00 603.89 Tm (electrinic.ttitanx.io/member/login.php) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 290.00 598.89 80.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 296.00 603.89 Tm (NA7917720) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 370.00 598.89 85.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 376.00 603.89 Tm (123456) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 455.00 598.89 100.00 18.00 re B
+BT /F2 8.2 Tf 0.100 0.500 0.200 rg 1 0 0 1 461.00 603.89 Tm (Active Member) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 40.00 580.89 75.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 585.89 Tm (Member 3) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 115.00 580.89 175.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 121.00 585.89 Tm (electrinic.ttitanx.io/member/login.php) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 290.00 580.89 80.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 296.00 585.89 Tm (NA1623931) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 370.00 580.89 85.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 376.00 585.89 Tm (123456) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 455.00 580.89 100.00 18.00 re B
+BT /F2 8.2 Tf 0.100 0.500 0.200 rg 1 0 0 1 461.00 585.89 Tm (Active Member) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 40.00 562.89 75.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 567.89 Tm (Member Signup) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 115.00 562.89 175.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 121.00 567.89 Tm (electrinic.ttitanx.io/member/signup.php) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 290.00 562.89 80.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 296.00 567.89 Tm (Self Register) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 370.00 562.89 85.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 376.00 567.89 Tm (User Set) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 455.00 562.89 100.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 461.00 567.89 Tm (Public Registration) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 40.00 544.89 75.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 549.89 Tm (Franchise Login) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 115.00 544.89 175.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 121.00 549.89 Tm (electrinic.ttitanx.io/franchise/login.php) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 290.00 544.89 80.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 296.00 549.89 Tm (FR36485) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 370.00 544.89 85.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 376.00 549.89 Tm (123456) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 455.00 544.89 100.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 461.00 549.89 Tm (State Franchise) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 40.00 526.89 75.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 531.89 Tm (Admin Portal) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 115.00 526.89 175.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 121.00 531.89 Tm (electrinic.ttitanx.io/admin/login.php) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 290.00 526.89 80.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 296.00 531.89 Tm (ADMIN001) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 370.00 526.89 85.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 376.00 531.89 Tm (Admin Pass) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 455.00 526.89 100.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 461.00 531.89 Tm (Super Administrator) Tj ET
+0.7 w 0.920 0.940 0.980 rg 0.700 0.780 0.900 RG 40.00 476.89 515.28 22.00 re B
+0.5 w 0.100 0.350 0.800 rg 40.00 476.89 4.00 22.00 re f
+BT /F2 10.5 Tf 0.080 0.180 0.400 rg 1 0 0 1 52.00 482.89 Tm (2. BUSINESS ARCHITECTURE SUMMARY \(IND PLAN\)) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 454.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 454.89 Tm (Core Philosophy:) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 141.20 454.89 Tm (Electric Mobility Network with Asset-Backed Earning & Real EV Distribution.) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 438.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 438.89 Tm (Option 1 \(Direct EV\):) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 167.20 438.89 Tm (Customer purchases Electric Vehicle directly \(Full Online Payment\). Immediate activation.) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 422.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 422.89 Tm (Option 2 \(Rs 10,000 Booking\):) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 208.80 422.89 Tm (Rs 10,000 Booking deposit with choice of 36-Month Voucher OR 10-Month Rs 1,000 Cashback.) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 406.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 406.89 Tm (No Binary MLM:) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 130.80 406.89 Tm (Binary trees, pairs, and caps are 100% permanently eliminated for legal compliance.) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 390.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 390.89 Tm (10-Root Affiliate:) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 151.60 390.89 Tm (One-time direct & level commissions distributed automatically on new joining activations.) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 374.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 374.89 Tm (Dual Wallet Engine:) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 156.80 374.89 Tm (50% locked into Scooter Wallet for vehicle purchase/EMI; 50% in Main Withdrawable Balance.) Tj ET
+0.7 w 0.920 0.940 0.980 rg 0.700 0.780 0.900 RG 40.00 346.89 515.28 22.00 re B
+0.5 w 0.100 0.350 0.800 rg 40.00 346.89 4.00 22.00 re f
+BT /F2 10.5 Tf 0.080 0.180 0.400 rg 1 0 0 1 52.00 352.89 Tm (3. SYSTEM SAFETY & CLEAN STATE NOTICE) Tj ET
+0.8 w 0.950 0.990 0.950 rg 0.200 0.600 0.300 RG 40.00 304.89 515.28 32.00 re B
+BT /F2 9 Tf 0.100 0.200 0.500 rg 1 0 0 1 50.00 321.89 Tm (DATABASE STATUS:) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.350 rg 1 0 0 1 50.00 310.89 Tm (All test dummy data has been purged. Only the 5 legitimate accounts above exist.) Tj ET
+0.5 w 0.8 0.82 0.86 RG 40.00 32 515.28 0 re S
+BT /F1 7.5 Tf 0.5 0.55 0.65 rg 1 0 0 1 40.00 22.00 Tm (ELECTRINC \(IND\) Platform - Confidential Client Test & Plan Guide) Tj ET
+BT /F2 7.5 Tf 0.5 0.55 0.65 rg 1 0 0 1 500.28 22.00 Tm (Page 1 of 6) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 9 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> >>
+endobj
+9 0 obj
+<< /Length 15694 >>
+stream
+1 w 0.080 0.130 0.240 rg 0.200 0.300 0.500 RG 40.00 744.89 515.28 52.00 re B
+BT /F2 15 Tf 1.000 1.000 1.000 rg 1 0 0 1 54.00 772.89 Tm (PART I: MEMBER PANEL BUSINESS PLAN) Tj ET
+BT /F1 9.5 Tf 0.700 0.800 0.950 rg 1 0 0 1 54.00 756.89 Tm (Comprehensive Income Calculations, Wallet Rules & Vehicle Progression) Tj ET
+0.7 w 0.920 0.940 0.980 rg 0.700 0.780 0.900 RG 40.00 704.89 515.28 22.00 re B
+0.5 w 0.100 0.350 0.800 rg 40.00 704.89 4.00 22.00 re f
+BT /F2 10.5 Tf 0.080 0.180 0.400 rg 1 0 0 1 52.00 710.89 Tm (4. JOINING OPTIONS & PRODUCT PRICE SPLIT) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 682.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 682.89 Tm (Option 1 \(Direct EV Buy\):) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 188.00 682.89 Tm (Choose from MAX VXI, MAX ZXI, Active Chetaak, Auto L-3 Rickshaw or Solar E-Rickshaw.) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 666.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 666.89 Tm (Option 2 \(Rs 10,000 Booking\):) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 208.80 666.89 Tm (Pays Rs 10,000. Gets either Rs 10,000 36-Month EV Product Voucher OR 10-Month Cashback.) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 650.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 650.89 Tm (Rs 1,000 Add-on Split:) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 172.40 650.89 Tm (Base price has Rs 1,000 split: Rs 300 Auto Pool 1 | Rs 100 Direct Pool | Rs 100 Team Pool | Rs 500 Training.) Tj ET
+0.7 w 0.920 0.940 0.980 rg 0.700 0.780 0.900 RG 40.00 622.89 515.28 22.00 re B
+0.5 w 0.100 0.350 0.800 rg 40.00 622.89 4.00 22.00 re f
+BT /F2 10.5 Tf 0.080 0.180 0.400 rg 1 0 0 1 52.00 628.89 Tm (5. 10-ROOT AFFILIATE COMMISSION \(ONE-TIME JOINING\)) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 40.00 592.89 110.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 46.00 598.89 Tm (Root Level) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 150.00 592.89 85.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 156.00 598.89 Tm (Commission %) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 235.00 592.89 195.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 241.00 598.89 Tm (Eligibility / Unlocking Condition) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 430.00 592.89 125.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 436.00 598.89 Tm (Sample on Rs 10,000) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 40.00 574.89 110.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 579.89 Tm (Root 1 \(Direct\)) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 150.00 574.89 85.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 156.00 579.89 Tm (5.0%) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 235.00 574.89 195.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 241.00 579.89 Tm (Open by default for all active sponsors) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 430.00 574.89 125.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 436.00 579.89 Tm (Rs 500.00) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 40.00 556.89 110.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 561.89 Tm (Root 2) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 150.00 556.89 85.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 156.00 561.89 Tm (0.5%) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 235.00 556.89 195.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 241.00 561.89 Tm (Requires 1 Direct Sponsor) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 430.00 556.89 125.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 436.00 561.89 Tm (Rs 50.00) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 40.00 538.89 110.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 543.89 Tm (Root 3) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 150.00 538.89 85.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 156.00 543.89 Tm (0.5%) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 235.00 538.89 195.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 241.00 543.89 Tm (Requires 2 Direct Sponsors) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 430.00 538.89 125.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 436.00 543.89 Tm (Rs 50.00) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 40.00 520.89 110.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 525.89 Tm (Root 4) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 150.00 520.89 85.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 156.00 525.89 Tm (0.5%) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 235.00 520.89 195.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 241.00 525.89 Tm (Requires 3 Direct Sponsors) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 430.00 520.89 125.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 436.00 525.89 Tm (Rs 50.00) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 40.00 502.89 110.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 507.89 Tm (Root 5) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 150.00 502.89 85.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 156.00 507.89 Tm (0.5%) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 235.00 502.89 195.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 241.00 507.89 Tm (Requires 4 Direct Sponsors) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 430.00 502.89 125.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 436.00 507.89 Tm (Rs 50.00) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 40.00 484.89 110.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 489.89 Tm (Root 6) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 150.00 484.89 85.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 156.00 489.89 Tm (0.2%) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 235.00 484.89 195.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 241.00 489.89 Tm (Requires 5 Direct Sponsors) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 430.00 484.89 125.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 436.00 489.89 Tm (Rs 20.00) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 40.00 466.89 110.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 471.89 Tm (Root 7) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 150.00 466.89 85.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 156.00 471.89 Tm (0.2%) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 235.00 466.89 195.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 241.00 471.89 Tm (Requires 6 Direct Sponsors) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 430.00 466.89 125.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 436.00 471.89 Tm (Rs 20.00) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 40.00 448.89 110.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 453.89 Tm (Root 8) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 150.00 448.89 85.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 156.00 453.89 Tm (0.2%) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 235.00 448.89 195.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 241.00 453.89 Tm (Requires 7 Direct Sponsors) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 430.00 448.89 125.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 436.00 453.89 Tm (Rs 20.00) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 40.00 430.89 110.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 435.89 Tm (Root 9) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 150.00 430.89 85.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 156.00 435.89 Tm (0.2%) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 235.00 430.89 195.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 241.00 435.89 Tm (Requires 8 Direct Sponsors) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 430.00 430.89 125.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 436.00 435.89 Tm (Rs 20.00) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 40.00 412.89 110.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 417.89 Tm (Root 10) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 150.00 412.89 85.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 156.00 417.89 Tm (0.5%) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 235.00 412.89 195.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 241.00 417.89 Tm (Requires 9 Direct Sponsors) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 430.00 412.89 125.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 436.00 417.89 Tm (Rs 50.00) Tj ET
+0.7 w 0.920 0.940 0.980 rg 0.700 0.780 0.900 RG 40.00 362.89 515.28 22.00 re B
+0.5 w 0.100 0.350 0.800 rg 40.00 362.89 4.00 22.00 re f
+BT /F2 10.5 Tf 0.080 0.180 0.400 rg 1 0 0 1 52.00 368.89 Tm (6. 3X1 AUTO-POOL RECYCLING ENGINE \(100 POOLS\)) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 340.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 340.89 Tm (Queue Model:) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 120.40 340.89 Tm (Strict FIFO global queue. Each pool fills with 3 IDs and recycles immediately.) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 324.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 324.89 Tm (3-Way Fund Distribution:) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 182.80 324.89 Tm (1 Position same pool re-topup + 1 Upgrade to next pool + 1 Net bank withdrawal.) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 40.00 300.89 70.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 46.00 306.89 Tm (Pool Level) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 110.00 300.89 75.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 116.00 306.89 Tm (Entry Fee) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 185.00 300.89 80.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 191.00 306.89 Tm (Total \(3 IDs\)) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 265.00 300.89 85.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 271.00 306.89 Tm (Re-Topup) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 350.00 300.89 95.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 356.00 306.89 Tm (Next Upgrade) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 445.00 300.89 110.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 451.00 306.89 Tm (Net Withdrawal \(10% TDS\)) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 40.00 282.89 70.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 287.89 Tm (Pool 1) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 110.00 282.89 75.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 116.00 287.89 Tm (Rs 300) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 185.00 282.89 80.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 191.00 287.89 Tm (Rs 900) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 265.00 282.89 85.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 271.00 287.89 Tm (Rs 300 \(P1\)) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 350.00 282.89 95.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 356.00 287.89 Tm (Rs 400 \(P2\)) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 445.00 282.89 110.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 451.00 287.89 Tm (Rs 180 \(Gross Rs 200\)) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 40.00 264.89 70.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 269.89 Tm (Pool 2) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 110.00 264.89 75.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 116.00 269.89 Tm (Rs 400) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 185.00 264.89 80.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 191.00 269.89 Tm (Rs 1,200) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 265.00 264.89 85.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 271.00 269.89 Tm (Rs 400 \(P2\)) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 350.00 264.89 95.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 356.00 269.89 Tm (Rs 500 \(P3\)) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 445.00 264.89 110.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 451.00 269.89 Tm (Rs 270 \(Gross Rs 300\)) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 40.00 246.89 70.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 251.89 Tm (Pool 3) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 110.00 246.89 75.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 116.00 251.89 Tm (Rs 500) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 185.00 246.89 80.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 191.00 251.89 Tm (Rs 1,500) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 265.00 246.89 85.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 271.00 251.89 Tm (Rs 500 \(P3\)) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 350.00 246.89 95.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 356.00 251.89 Tm (Rs 600 \(P4\)) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 445.00 246.89 110.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 451.00 251.89 Tm (Rs 360 \(Gross Rs 400\)) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 40.00 228.89 70.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 233.89 Tm (Pool 4) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 110.00 228.89 75.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 116.00 233.89 Tm (Rs 600) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 185.00 228.89 80.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 191.00 233.89 Tm (Rs 1,800) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 265.00 228.89 85.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 271.00 233.89 Tm (Rs 600 \(P4\)) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 350.00 228.89 95.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 356.00 233.89 Tm (Rs 700 \(P5\)) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 445.00 228.89 110.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 451.00 233.89 Tm (Rs 450 \(Gross Rs 500\)) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 40.00 210.89 70.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 215.89 Tm (Pool 5) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 110.00 210.89 75.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 116.00 215.89 Tm (Rs 700) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 185.00 210.89 80.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 191.00 215.89 Tm (Rs 2,100) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 265.00 210.89 85.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 271.00 215.89 Tm (Rs 700 \(P5\)) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 350.00 210.89 95.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 356.00 215.89 Tm (Rs 800 \(P6\)) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 445.00 210.89 110.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 451.00 215.89 Tm (Rs 540 \(Gross Rs 600\)) Tj ET
+0.5 w 0.8 0.82 0.86 RG 40.00 32 515.28 0 re S
+BT /F1 7.5 Tf 0.5 0.55 0.65 rg 1 0 0 1 40.00 22.00 Tm (ELECTRINC \(IND\) Platform - Confidential Client Test & Plan Guide) Tj ET
+BT /F2 7.5 Tf 0.5 0.55 0.65 rg 1 0 0 1 500.28 22.00 Tm (Page 2 of 6) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 11 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> >>
+endobj
+11 0 obj
+<< /Length 8054 >>
+stream
+1 w 0.080 0.130 0.240 rg 0.200 0.300 0.500 RG 40.00 744.89 515.28 52.00 re B
+BT /F2 15 Tf 1.000 1.000 1.000 rg 1 0 0 1 54.00 772.89 Tm (MEMBER PANEL: WALLET RULES & STEP-BY-STEP TESTING) Tj ET
+BT /F1 9.5 Tf 0.700 0.800 0.950 rg 1 0 0 1 54.00 756.89 Tm (Detailed Member Verification Protocol from Signup to Bank Withdrawal) Tj ET
+0.7 w 0.920 0.940 0.980 rg 0.700 0.780 0.900 RG 40.00 704.89 515.28 22.00 re B
+0.5 w 0.100 0.350 0.800 rg 40.00 704.89 4.00 22.00 re f
+BT /F2 10.5 Tf 0.080 0.180 0.400 rg 1 0 0 1 52.00 710.89 Tm (7. BRAND PROMOTION & 100% FREE SCOOTER PROGRESSION) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 682.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 682.89 Tm (Base Support:) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 125.60 682.89 Tm (50% fixed monthly EMI support for 36 Months upon vehicle handover.) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 666.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 666.89 Tm (Booster Acceleration:) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 167.20 666.89 Tm (For every 2 direct vehicle sales, monthly support increases by 10%:) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 650.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 650.89 Tm (Progression:) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 120.40 650.89 Tm (0-1 Vehicle = 50% | 2 Veh = 60% | 4 Veh = 70% | 6 Veh = 80% | 8 Veh = 90% | 10 Veh = 100% \(FREE\).) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 634.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 634.89 Tm (Verification:) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 125.60 634.89 Tm (Member uploads selfie video with vehicle + GPS live tag + WhatsApp status proof monthly.) Tj ET
+0.7 w 0.920 0.940 0.980 rg 0.700 0.780 0.900 RG 40.00 606.89 515.28 22.00 re B
+0.5 w 0.100 0.350 0.800 rg 40.00 606.89 4.00 22.00 re f
+BT /F2 10.5 Tf 0.080 0.180 0.400 rg 1 0 0 1 52.00 612.89 Tm (8. DUAL WALLET STRUCTURE & WITHDRAWAL DEDUCTIONS) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 40.00 576.89 95.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 46.00 582.89 Tm (Wallet Name) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 135.00 576.89 85.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 141.00 582.89 Tm (Allocation) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 220.00 576.89 185.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 226.00 582.89 Tm (Eligible Uses) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 405.00 576.89 150.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 411.00 582.89 Tm (Deductions & Schedule) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 40.00 558.89 95.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 563.89 Tm (Scooter Wallet) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 135.00 558.89 85.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 141.00 563.89 Tm (50% of Incomes) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 220.00 558.89 185.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 226.00 563.89 Tm (Dedicated for EV purchase, down-payment or EMI) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 405.00 558.89 150.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 411.00 563.89 Tm (0% deduction \(Asset Accumulator\)) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 40.00 540.89 95.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 545.89 Tm (Main Cash Balance) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 135.00 540.89 85.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 141.00 545.89 Tm (50% of Incomes) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 220.00 540.89 185.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 226.00 545.89 Tm (P2P Transfers and Direct Bank Withdrawals) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 405.00 540.89 150.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 411.00 545.89 Tm (P2P: 15% fee | Bank: 20% \(10% TDS + 10% Admin\)) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 502.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 502.89 Tm (Withdrawal Windows:) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 156.80 502.89 Tm (Allowed strictly on 5th, 15th, and 25th of every calendar month.) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 486.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 486.89 Tm (Daily Tiered Caps:) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 151.60 486.89 Tm (1st payout: Rs 500 max | 2nd payout: Rs 500 max | 3rd payout onward: Rs 2,000+.) Tj ET
+0.7 w 0.920 0.940 0.980 rg 0.700 0.780 0.900 RG 40.00 458.89 515.28 22.00 re B
+0.5 w 0.100 0.350 0.800 rg 40.00 458.89 4.00 22.00 re f
+BT /F2 10.5 Tf 0.080 0.180 0.400 rg 1 0 0 1 52.00 464.89 Tm (9. STEP-BY-STEP MANUAL TEST PROTOCOL FOR MEMBER PANEL) Tj ET
+0.7 w 0.980 0.990 1.000 rg 0.800 0.850 0.920 RG 40.00 349.89 515.28 99.00 re B
+0.5 w 0.880 0.920 0.980 rg 0.800 0.850 0.920 RG 40.00 428.89 515.28 20.00 re B
+BT /F2 9 Tf 0.100 0.200 0.450 rg 1 0 0 1 50.00 434.89 Tm (STEP 1: NEW MEMBER REGISTRATION & LIVE SPONSOR VERIFICATION) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.350 rg 1 0 0 1 54.00 414.89 Tm (- Open browser: https://electrinic.ttitanx.io/member/signup.php) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.350 rg 1 0 0 1 54.00 400.89 Tm (- Enter Referral / Sponsor ID: NA7915191. Tab out - verify sponsor name appears automatically via AJAX.) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.350 rg 1 0 0 1 54.00 386.89 Tm (- Fill in Full Name, Mobile, Email, State, City, and set a Secure Password.) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.350 rg 1 0 0 1 54.00 372.89 Tm (- Select Option 1 \(Direct EV\) OR Option 2 \(Rs 10,000 Booking Voucher / Cashback\).) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.350 rg 1 0 0 1 54.00 358.89 Tm (- Submit form. View assigned Customer ID \(e.g. NA...\) on the screen.) Tj ET
+0.7 w 0.980 0.990 1.000 rg 0.800 0.850 0.920 RG 40.00 257.89 515.28 84.00 re B
+0.5 w 0.880 0.920 0.980 rg 0.800 0.850 0.920 RG 40.00 321.89 515.28 20.00 re B
+BT /F2 9 Tf 0.100 0.200 0.450 rg 1 0 0 1 50.00 327.89 Tm (STEP 2: PAYMENT SUBMISSION & ADMIN ACTIVATION FLOW) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.350 rg 1 0 0 1 54.00 307.89 Tm (- In Step 3, view Company Bank Details \(SBI A/C: 41893829104, IFSC: SBIN0011758, UPI: electrinc@phonepe\).) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.350 rg 1 0 0 1 54.00 293.89 Tm (- Enter UTR / Transaction Reference number and upload a payment receipt screenshot \(JPG/PNG/PDF\).) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.350 rg 1 0 0 1 54.00 279.89 Tm (- Login as Admin \(admin/login.php\) with ADMIN001. Navigate to 'Activation Requests' or 'Deposit Requests'.) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.350 rg 1 0 0 1 54.00 265.89 Tm (- Click 'Approve'. Switch back to Member login \(member/login.php\) - verify account status is now 'ACTIVE'.) Tj ET
+0.7 w 0.980 0.990 1.000 rg 0.800 0.850 0.920 RG 40.00 165.89 515.28 84.00 re B
+0.5 w 0.880 0.920 0.980 rg 0.800 0.850 0.920 RG 40.00 229.89 515.28 20.00 re B
+BT /F2 9 Tf 0.100 0.200 0.450 rg 1 0 0 1 50.00 235.89 Tm (STEP 3: P2P WALLET TRANSFER & BANK WITHDRAWAL TESTING) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.350 rg 1 0 0 1 54.00 215.89 Tm (- Login as Member NA7915191. Go to 'P2P Transfer'.) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.350 rg 1 0 0 1 54.00 201.89 Tm (- Transfer Rs 500 to recipient NA7917720. Observe 15% platform deduction \(Rs 75 fee, Rs 425 credited\).) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.350 rg 1 0 0 1 54.00 187.89 Tm (- Check NA7917720 wallet - confirm instant balance update and ledger entry.) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.350 rg 1 0 0 1 54.00 173.89 Tm (- Go to 'Withdrawal Request'. Enter bank details & amount. Verify 20% total deduction and date validation.) Tj ET
+0.5 w 0.8 0.82 0.86 RG 40.00 32 515.28 0 re S
+BT /F1 7.5 Tf 0.5 0.55 0.65 rg 1 0 0 1 40.00 22.00 Tm (ELECTRINC \(IND\) Platform - Confidential Client Test & Plan Guide) Tj ET
+BT /F2 7.5 Tf 0.5 0.55 0.65 rg 1 0 0 1 500.28 22.00 Tm (Page 3 of 6) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 13 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> >>
+endobj
+13 0 obj
+<< /Length 8743 >>
+stream
+1 w 0.080 0.130 0.240 rg 0.200 0.300 0.500 RG 40.00 744.89 515.28 52.00 re B
+BT /F2 15 Tf 1.000 1.000 1.000 rg 1 0 0 1 54.00 772.89 Tm (PART II: FRANCHISE PANEL BUSINESS PLAN & OPERATIONS) Tj ET
+BT /F1 9.5 Tf 0.700 0.800 0.950 rg 1 0 0 1 54.00 756.89 Tm (Franchise Showroom Investment Model, POS Billing & Inventory Management) Tj ET
+0.7 w 0.920 0.940 0.980 rg 0.700 0.780 0.900 RG 40.00 704.89 515.28 22.00 re B
+0.5 w 0.100 0.350 0.800 rg 40.00 704.89 4.00 22.00 re f
+BT /F2 10.5 Tf 0.080 0.180 0.400 rg 1 0 0 1 52.00 710.89 Tm (10. FRANCHISE TIER ARCHITECTURE & INVESTMENT MODEL) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 682.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 682.89 Tm (3 Franchise Tiers:) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 151.60 682.89 Tm (State Franchise \(Master\), City Franchise \(District\), Mobile Franchise \(Sub-dealer\).) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 666.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 666.89 Tm (Flagship Model:) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 136.00 666.89 Tm (Rs 5,00,000 Investment Showroom Model.) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 650.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 650.89 Tm (Deliverables Included:) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 172.40 650.89 Tm (1 Demo EV Scooter + 36-Month Assured Cashback + 5% Direct Sponsor + 0.5% Area Turnover.) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 40.00 626.89 95.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 46.00 632.89 Tm (Tier Level) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 135.00 626.89 95.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 141.00 632.89 Tm (Target Coverage) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 230.00 626.89 175.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 236.00 632.89 Tm (Primary Roles) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 405.00 626.89 150.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 411.00 632.89 Tm (Commission & Revenue Share) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 40.00 608.89 95.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 613.89 Tm (State Franchise) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 135.00 608.89 95.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 141.00 613.89 Tm (Entire State) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 230.00 608.89 175.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 236.00 613.89 Tm (Regional Hub & Vehicle Distribution) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 405.00 608.89 150.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 411.00 613.89 Tm (0.5% State Turnover + Wholesale EV Margin) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 40.00 590.89 95.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 595.89 Tm (City Franchise) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 135.00 590.89 95.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 141.00 595.89 Tm (City / District) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 230.00 590.89 175.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 236.00 595.89 Tm (Showroom, Test Drives & Delivery) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 405.00 590.89 150.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 411.00 595.89 Tm (City EV Delivery Commission + Local Booking Share) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 40.00 572.89 95.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 577.89 Tm (Mobile Franchise) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 135.00 572.89 95.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 141.00 577.89 Tm (Taluka / Zone) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 230.00 572.89 175.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 236.00 577.89 Tm (Mobile Service & Field Demonstrations) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 405.00 572.89 150.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 411.00 577.89 Tm (Direct Sale Commission + Servicing Margin) Tj ET
+0.7 w 0.920 0.940 0.980 rg 0.700 0.780 0.900 RG 40.00 522.89 515.28 22.00 re B
+0.5 w 0.100 0.350 0.800 rg 40.00 522.89 4.00 22.00 re f
+BT /F2 10.5 Tf 0.080 0.180 0.400 rg 1 0 0 1 52.00 528.89 Tm (11. FRANCHISE INVENTORY & POS BILLING ENGINE) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 500.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 500.89 Tm (Hardware Specifications:) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 182.80 500.89 Tm (Tracks Model Name, Color, Chassis Number, Controller No, Motor No, and Battery Serial No.) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 484.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 484.89 Tm (POS Billing to Members:) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 177.60 484.89 Tm (Franchise delivers booked EVs to members and generates instant digital sale invoice.) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 468.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 468.89 Tm (Stock Transfer Workflow:) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 182.80 468.89 Tm (Franchise submits stock replenishment requests to Admin. Admin dispatches units.) Tj ET
+0.7 w 0.920 0.940 0.980 rg 0.700 0.780 0.900 RG 40.00 440.89 515.28 22.00 re B
+0.5 w 0.100 0.350 0.800 rg 40.00 440.89 4.00 22.00 re f
+BT /F2 10.5 Tf 0.080 0.180 0.400 rg 1 0 0 1 52.00 446.89 Tm (12. FRANCHISE COMMISSION & SELF-SERVICE PAYOUTS) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 418.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 418.89 Tm (Self-Service Portal:) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 162.00 418.89 Tm (Franchise requests withdrawals directly from franchise/commission-payout.php.) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 402.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 402.89 Tm (Admin Verification:) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 156.80 402.89 Tm (Admin reviews at admin/franchies-payout-report.php with 'Approve' or 'Reject' action.) Tj ET
+0.7 w 0.920 0.940 0.980 rg 0.700 0.780 0.900 RG 40.00 374.89 515.28 22.00 re B
+0.5 w 0.100 0.350 0.800 rg 40.00 374.89 4.00 22.00 re f
+BT /F2 10.5 Tf 0.080 0.180 0.400 rg 1 0 0 1 52.00 380.89 Tm (13. STEP-BY-STEP MANUAL TEST PROTOCOL FOR FRANCHISE PANEL) Tj ET
+0.7 w 0.980 0.990 1.000 rg 0.800 0.850 0.920 RG 40.00 280.89 515.28 84.00 re B
+0.5 w 0.880 0.920 0.980 rg 0.800 0.850 0.920 RG 40.00 344.89 515.28 20.00 re B
+BT /F2 9 Tf 0.100 0.200 0.450 rg 1 0 0 1 50.00 350.89 Tm (STEP 4: FRANCHISE PORTAL ACCESS & INVENTORY INSPECTION) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.350 rg 1 0 0 1 54.00 330.89 Tm (- Open browser: https://electrinic.ttitanx.io/franchise/login.php) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.350 rg 1 0 0 1 54.00 316.89 Tm (- Enter Franchise Code: FR36485 \(or 36485\) and Password: 123456.) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.350 rg 1 0 0 1 54.00 302.89 Tm (- Verify Franchise Dashboard opens displaying State Franchise profile and live wallet balance.) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.350 rg 1 0 0 1 54.00 288.89 Tm (- Navigate to 'Vehicle Inventory' / 'Stock Management'. Verify available EV units, chassis numbers, and specs.) Tj ET
+0.7 w 0.980 0.990 1.000 rg 0.800 0.850 0.920 RG 40.00 173.89 515.28 99.00 re B
+0.5 w 0.880 0.920 0.980 rg 0.800 0.850 0.920 RG 40.00 252.89 515.28 20.00 re B
+BT /F2 9 Tf 0.100 0.200 0.450 rg 1 0 0 1 50.00 258.89 Tm (STEP 5: EV CUSTOMER POS BILLING & COMMISSION WITHDRAWAL) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.350 rg 1 0 0 1 54.00 238.89 Tm (- Go to 'Billing / POS'. Select a delivered EV unit \(e.g. MAX VXI or Active Chetaak\).) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.350 rg 1 0 0 1 54.00 224.89 Tm (- Enter Customer ID \(e.g. NA7915191\) and generate the vehicle delivery bill / gate pass.) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.350 rg 1 0 0 1 54.00 210.89 Tm (- Go to 'Commission Payout' \(franchise/commission-payout.php\). Enter withdrawal amount and Bank details.) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.350 rg 1 0 0 1 54.00 196.89 Tm (- Submit withdrawal request. Login to Admin \(admin/franchies-payout-report.php\) and click 'Approve'.) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.350 rg 1 0 0 1 54.00 182.89 Tm (- Verify Franchise wallet ledger reflects completed payout with transaction ID.) Tj ET
+0.5 w 0.8 0.82 0.86 RG 40.00 32 515.28 0 re S
+BT /F1 7.5 Tf 0.5 0.55 0.65 rg 1 0 0 1 40.00 22.00 Tm (ELECTRINC \(IND\) Platform - Confidential Client Test & Plan Guide) Tj ET
+BT /F2 7.5 Tf 0.5 0.55 0.65 rg 1 0 0 1 500.28 22.00 Tm (Page 4 of 6) Tj ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 15 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> >>
+endobj
+15 0 obj
+<< /Length 10524 >>
+stream
+1 w 0.080 0.130 0.240 rg 0.200 0.300 0.500 RG 40.00 744.89 515.28 52.00 re B
+BT /F2 15 Tf 1.000 1.000 1.000 rg 1 0 0 1 54.00 772.89 Tm (PART III: ADMIN VERIFICATION & SPONSOR TRACKING) Tj ET
+BT /F1 9.5 Tf 0.700 0.800 0.950 rg 1 0 0 1 54.00 756.89 Tm (Super Administrator Master Controls, Associate Tracking & Audit Reports) Tj ET
+0.7 w 0.920 0.940 0.980 rg 0.700 0.780 0.900 RG 40.00 704.89 515.28 22.00 re B
+0.5 w 0.100 0.350 0.800 rg 40.00 704.89 4.00 22.00 re f
+BT /F2 10.5 Tf 0.080 0.180 0.400 rg 1 0 0 1 52.00 710.89 Tm (14. SPONSOR-TO-DOWNLINE ASSOCIATION VERIFICATION) Tj ET
+0.8 w 0.950 0.980 1.000 rg 0.200 0.450 0.850 RG 40.00 662.89 515.28 32.00 re B
+BT /F2 9 Tf 0.100 0.200 0.500 rg 1 0 0 1 50.00 679.89 Tm (SPONSOR TRACKING LOGIC:) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.350 rg 1 0 0 1 50.00 668.89 Tm (Every member has a permanent referral_id linking them to their sponsor. Transparent in Admin and Member panels.) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 642.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 642.89 Tm (Admin Associate Report:) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 177.60 642.89 Tm (Go to admin/associate_report.php. Search any Member ID to view Sponsor ID, Full Name, & Level.) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 626.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 626.89 Tm (Member Team Tree:) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 146.40 626.89 Tm (Member logs in -> 'My Team Mates' \(member/my-team-mates.php\). Displays 10-level downline list.) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 610.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 610.89 Tm (Direct Referrals List:) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 172.40 610.89 Tm (Displays all direct signups sponsored by the member with activation date and package.) Tj ET
+0.7 w 0.920 0.940 0.980 rg 0.700 0.780 0.900 RG 40.00 582.89 515.28 22.00 re B
+0.5 w 0.100 0.350 0.800 rg 40.00 582.89 4.00 22.00 re f
+BT /F2 10.5 Tf 0.080 0.180 0.400 rg 1 0 0 1 52.00 588.89 Tm (15. COMPLETE END-TO-END VERIFICATION CHECKLIST FOR CLIENT) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 40.00 552.89 95.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 46.00 558.89 Tm (Test Objective) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 135.00 552.89 135.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 141.00 558.89 Tm (Portal / Page) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 270.00 552.89 125.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 276.00 558.89 Tm (Input Action) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 395.00 552.89 160.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 401.00 558.89 Tm (Expected Successful Output) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 40.00 534.89 95.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 539.89 Tm (1. Member Signup) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 135.00 534.89 135.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 141.00 539.89 Tm (member/signup.php) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 270.00 534.89 125.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 276.00 539.89 Tm (Referral NA7915191 + details) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 395.00 534.89 160.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 401.00 539.89 Tm (Sponsor name shows; ID generated) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 40.00 516.89 95.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 521.89 Tm (2. Admin Activation) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 135.00 516.89 135.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 141.00 521.89 Tm (admin/activation_requests.php) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 270.00 516.89 125.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 276.00 521.89 Tm (Click Approve on new ID) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 395.00 516.89 160.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 401.00 521.89 Tm (Account status switches to ACTIVE) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 40.00 498.89 95.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 503.89 Tm (3. Member Login) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 135.00 498.89 135.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 141.00 503.89 Tm (member/login.php) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 270.00 498.89 125.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 276.00 503.89 Tm (Customer ID + Password) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 395.00 498.89 160.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 401.00 503.89 Tm (Redirects to Member Dashboard) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 40.00 480.89 95.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 485.89 Tm (4. P2P Transfer) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 135.00 480.89 135.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 141.00 485.89 Tm (member/p2p-transfer.php) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 270.00 480.89 125.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 276.00 485.89 Tm (Send Rs 500 to NA7917720) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 395.00 480.89 160.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 401.00 485.89 Tm (15% fee deducted; instant transfer) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 40.00 462.89 95.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 467.89 Tm (5. Bank Withdrawal) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 135.00 462.89 135.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 141.00 467.89 Tm (member/bank-withdrawal.php) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 270.00 462.89 125.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 276.00 467.89 Tm (Request Rs 500 \(dates: 5/15/25\)) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 395.00 462.89 160.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 401.00 467.89 Tm (20% deduction; pending approval) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 40.00 444.89 95.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 449.89 Tm (6. Franchise Login) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 135.00 444.89 135.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 141.00 449.89 Tm (franchise/login.php) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 270.00 444.89 125.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 276.00 449.89 Tm (FR36485 + 123456) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 395.00 444.89 160.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 401.00 449.89 Tm (Opens State Franchise Dashboard) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 40.00 426.89 95.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 431.89 Tm (7. Stock Inventory) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 135.00 426.89 135.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 141.00 431.89 Tm (franchise/inventory.php) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 270.00 426.89 125.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 276.00 431.89 Tm (View vehicle stock specs) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 395.00 426.89 160.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 401.00 431.89 Tm (Chassis, motor & battery specs show) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 40.00 408.89 95.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 413.89 Tm (8. Franchise Payout) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 135.00 408.89 135.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 141.00 413.89 Tm (franchise/commission-payout.php) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 270.00 408.89 125.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 276.00 413.89 Tm (Request payout to bank) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 395.00 408.89 160.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 401.00 413.89 Tm (Recorded in franchise ledger) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 40.00 390.89 95.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 395.89 Tm (9. Admin Franchise Pay) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 135.00 390.89 135.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 141.00 395.89 Tm (admin/franchies-payout-report.php) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 270.00 390.89 125.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 276.00 395.89 Tm (Click Approve on request) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 395.00 390.89 160.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 401.00 395.89 Tm (Status changes to Paid / Completed) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 40.00 372.89 95.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 377.89 Tm (10. Sponsor Audit) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 135.00 372.89 135.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 141.00 377.89 Tm (admin/associate_report.php) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 270.00 372.89 125.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 276.00 377.89 Tm (Filter by NA7915191) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 395.00 372.89 160.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 401.00 377.89 Tm (Shows all sponsored downline IDs) Tj ET
+0.7 w 0.920 0.940 0.980 rg 0.700 0.780 0.900 RG 40.00 322.89 515.28 22.00 re B
+0.5 w 0.100 0.350 0.800 rg 40.00 322.89 4.00 22.00 re f
+BT /F2 10.5 Tf 0.080 0.180 0.400 rg 1 0 0 1 52.00 328.89 Tm (16. SIGN-OFF & DOCUMENT INFORMATION) Tj ET
+0.8 w 0.980 0.980 0.980 rg 0.500 0.500 0.600 RG 40.00 280.89 515.28 32.00 re B
+BT /F2 9 Tf 0.100 0.200 0.500 rg 1 0 0 1 50.00 297.89 Tm (CONFIDENTIAL & PROPRIETARY:) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.350 rg 1 0 0 1 50.00 286.89 Tm (Prepared for ELECTRINC \(IND\) Platform Client Testing & Quality Assurance Review. Version 3.2.) Tj ET
+0.5 w 0.8 0.82 0.86 RG 40.00 32 515.28 0 re S
+BT /F1 7.5 Tf 0.5 0.55 0.65 rg 1 0 0 1 40.00 22.00 Tm (ELECTRINC \(IND\) Platform - Confidential Client Test & Plan Guide) Tj ET
+BT /F2 7.5 Tf 0.5 0.55 0.65 rg 1 0 0 1 500.28 22.00 Tm (Page 5 of 6) Tj ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 17 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> >>
+endobj
+17 0 obj
+<< /Length 10524 >>
+stream
+1 w 0.080 0.130 0.240 rg 0.200 0.300 0.500 RG 40.00 744.89 515.28 52.00 re B
+BT /F2 15 Tf 1.000 1.000 1.000 rg 1 0 0 1 54.00 772.89 Tm (PART III: ADMIN VERIFICATION & SPONSOR TRACKING) Tj ET
+BT /F1 9.5 Tf 0.700 0.800 0.950 rg 1 0 0 1 54.00 756.89 Tm (Super Administrator Master Controls, Associate Tracking & Audit Reports) Tj ET
+0.7 w 0.920 0.940 0.980 rg 0.700 0.780 0.900 RG 40.00 704.89 515.28 22.00 re B
+0.5 w 0.100 0.350 0.800 rg 40.00 704.89 4.00 22.00 re f
+BT /F2 10.5 Tf 0.080 0.180 0.400 rg 1 0 0 1 52.00 710.89 Tm (14. SPONSOR-TO-DOWNLINE ASSOCIATION VERIFICATION) Tj ET
+0.8 w 0.950 0.980 1.000 rg 0.200 0.450 0.850 RG 40.00 662.89 515.28 32.00 re B
+BT /F2 9 Tf 0.100 0.200 0.500 rg 1 0 0 1 50.00 679.89 Tm (SPONSOR TRACKING LOGIC:) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.350 rg 1 0 0 1 50.00 668.89 Tm (Every member has a permanent referral_id linking them to their sponsor. Transparent in Admin and Member panels.) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 642.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 642.89 Tm (Admin Associate Report:) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 177.60 642.89 Tm (Go to admin/associate_report.php. Search any Member ID to view Sponsor ID, Full Name, & Level.) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 626.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 626.89 Tm (Member Team Tree:) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 146.40 626.89 Tm (Member logs in -> 'My Team Mates' \(member/my-team-mates.php\). Displays 10-level downline list.) Tj ET
+BT /F2 9 Tf 0.100 0.400 0.800 rg 1 0 0 1 46.00 610.89 Tm (>) Tj ET
+BT /F2 8.8 Tf 0.100 0.150 0.250 rg 1 0 0 1 58.00 610.89 Tm (Direct Referrals List:) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.350 rg 1 0 0 1 172.40 610.89 Tm (Displays all direct signups sponsored by the member with activation date and package.) Tj ET
+0.7 w 0.920 0.940 0.980 rg 0.700 0.780 0.900 RG 40.00 582.89 515.28 22.00 re B
+0.5 w 0.100 0.350 0.800 rg 40.00 582.89 4.00 22.00 re f
+BT /F2 10.5 Tf 0.080 0.180 0.400 rg 1 0 0 1 52.00 588.89 Tm (15. COMPLETE END-TO-END VERIFICATION CHECKLIST FOR CLIENT) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 40.00 552.89 95.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 46.00 558.89 Tm (Test Objective) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 135.00 552.89 135.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 141.00 558.89 Tm (Portal / Page) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 270.00 552.89 125.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 276.00 558.89 Tm (Input Action) Tj ET
+0.5 w 0.150 0.250 0.450 rg 0.700 0.750 0.850 RG 395.00 552.89 160.00 20.00 re B
+BT /F2 8.5 Tf 1.000 1.000 1.000 rg 1 0 0 1 401.00 558.89 Tm (Expected Successful Output) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 40.00 534.89 95.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 539.89 Tm (1. Member Signup) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 135.00 534.89 135.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 141.00 539.89 Tm (member/signup.php) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 270.00 534.89 125.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 276.00 539.89 Tm (Referral NA7915191 + details) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 395.00 534.89 160.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 401.00 539.89 Tm (Sponsor name shows; ID generated) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 40.00 516.89 95.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 521.89 Tm (2. Admin Activation) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 135.00 516.89 135.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 141.00 521.89 Tm (admin/activation_requests.php) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 270.00 516.89 125.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 276.00 521.89 Tm (Click Approve on new ID) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 395.00 516.89 160.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 401.00 521.89 Tm (Account status switches to ACTIVE) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 40.00 498.89 95.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 503.89 Tm (3. Member Login) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 135.00 498.89 135.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 141.00 503.89 Tm (member/login.php) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 270.00 498.89 125.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 276.00 503.89 Tm (Customer ID + Password) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 395.00 498.89 160.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 401.00 503.89 Tm (Redirects to Member Dashboard) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 40.00 480.89 95.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 485.89 Tm (4. P2P Transfer) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 135.00 480.89 135.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 141.00 485.89 Tm (member/p2p-transfer.php) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 270.00 480.89 125.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 276.00 485.89 Tm (Send Rs 500 to NA7917720) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 395.00 480.89 160.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 401.00 485.89 Tm (15% fee deducted; instant transfer) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 40.00 462.89 95.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 467.89 Tm (5. Bank Withdrawal) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 135.00 462.89 135.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 141.00 467.89 Tm (member/bank-withdrawal.php) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 270.00 462.89 125.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 276.00 467.89 Tm (Request Rs 500 \(dates: 5/15/25\)) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 395.00 462.89 160.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 401.00 467.89 Tm (20% deduction; pending approval) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 40.00 444.89 95.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 449.89 Tm (6. Franchise Login) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 135.00 444.89 135.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 141.00 449.89 Tm (franchise/login.php) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 270.00 444.89 125.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 276.00 449.89 Tm (FR36485 + 123456) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 395.00 444.89 160.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 401.00 449.89 Tm (Opens State Franchise Dashboard) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 40.00 426.89 95.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 431.89 Tm (7. Stock Inventory) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 135.00 426.89 135.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 141.00 431.89 Tm (franchise/inventory.php) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 270.00 426.89 125.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 276.00 431.89 Tm (View vehicle stock specs) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 395.00 426.89 160.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 401.00 431.89 Tm (Chassis, motor & battery specs show) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 40.00 408.89 95.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 413.89 Tm (8. Franchise Payout) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 135.00 408.89 135.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 141.00 413.89 Tm (franchise/commission-payout.php) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 270.00 408.89 125.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 276.00 413.89 Tm (Request payout to bank) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 395.00 408.89 160.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 401.00 413.89 Tm (Recorded in franchise ledger) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 40.00 390.89 95.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 395.89 Tm (9. Admin Franchise Pay) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 135.00 390.89 135.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 141.00 395.89 Tm (admin/franchies-payout-report.php) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 270.00 390.89 125.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 276.00 395.89 Tm (Click Approve on request) Tj ET
+0.5 w 1.000 1.000 1.000 rg 0.850 0.880 0.920 RG 395.00 390.89 160.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 401.00 395.89 Tm (Status changes to Paid / Completed) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 40.00 372.89 95.00 18.00 re B
+BT /F2 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 46.00 377.89 Tm (10. Sponsor Audit) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 135.00 372.89 135.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 141.00 377.89 Tm (admin/associate_report.php) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 270.00 372.89 125.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 276.00 377.89 Tm (Filter by NA7915191) Tj ET
+0.5 w 0.970 0.980 1.000 rg 0.850 0.880 0.920 RG 395.00 372.89 160.00 18.00 re B
+BT /F1 8.2 Tf 0.150 0.150 0.200 rg 1 0 0 1 401.00 377.89 Tm (Shows all sponsored downline IDs) Tj ET
+0.7 w 0.920 0.940 0.980 rg 0.700 0.780 0.900 RG 40.00 322.89 515.28 22.00 re B
+0.5 w 0.100 0.350 0.800 rg 40.00 322.89 4.00 22.00 re f
+BT /F2 10.5 Tf 0.080 0.180 0.400 rg 1 0 0 1 52.00 328.89 Tm (16. SIGN-OFF & DOCUMENT INFORMATION) Tj ET
+0.8 w 0.980 0.980 0.980 rg 0.500 0.500 0.600 RG 40.00 280.89 515.28 32.00 re B
+BT /F2 9 Tf 0.100 0.200 0.500 rg 1 0 0 1 50.00 297.89 Tm (CONFIDENTIAL & PROPRIETARY:) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.350 rg 1 0 0 1 50.00 286.89 Tm (Prepared for ELECTRINC \(IND\) Platform Client Testing & Quality Assurance Review. Version 3.2.) Tj ET
+0.5 w 0.8 0.82 0.86 RG 40.00 32 515.28 0 re S
+BT /F1 7.5 Tf 0.5 0.55 0.65 rg 1 0 0 1 40.00 22.00 Tm (ELECTRINC \(IND\) Platform - Confidential Client Test & Plan Guide) Tj ET
+BT /F2 7.5 Tf 0.5 0.55 0.65 rg 1 0 0 1 500.28 22.00 Tm (Page 6 of 6) Tj ET
+endstream
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000015 00000 n 
+0000000358 00000 n 
+0000000064 00000 n 
+0000000161 00000 n 
+0000000263 00000 n 
+0000000449 00000 n 
+0000000601 00000 n 
+0000010256 00000 n 
+0000010408 00000 n 
+0000026155 00000 n 
+0000026309 00000 n 
+0000034416 00000 n 
+0000034570 00000 n 
+0000043366 00000 n 
+0000043520 00000 n 
+0000054098 00000 n 
+0000054252 00000 n 
+trailer
+<< /Size 18 /Root 1 0 R >>
+startxref
+64830
+%%EOF

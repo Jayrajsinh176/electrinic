@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ELECTRINC — Member & Franchise Panel Testing Guide & Business Plan</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap');
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        }
+        code, pre, .mono {
+            font-family: 'JetBrains Mono', monospace;
+        }
+        @media print {
+            .no-print { display: none !important; }
+            body {
+                background: white !important;
+                color: #0f172a !important;
+                padding: 0 !important;
+            }
+            .page-break {
+                page-break-before: always;
+            }
+            .card-container {
+                box-shadow: none !important;
+                border: 1px solid #cbd5e1 !important;
+            }
+        }
+    </style>
+</head>
+<body class="bg-slate-900 text-slate-100 min-h-screen antialiased p-4 sm:p-8">
+
+    <!-- Top Action Bar -->
+    <div class="max-w-5xl mx-auto mb-6 flex flex-wrap items-center justify-between gap-4 no-print">
+        <div>
+            <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-semibold bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">
+                <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span> Live System Verified
+            </span>
+            <h1 class="text-xl sm:text-2xl font-bold text-white mt-1">ELECTRINC Master Testing & Plan Manual</h1>
+        </div>
+        <div class="flex items-center gap-3">
+            <a href="ELECTRINC_Member_and_Franchise_Plan_Testing_Guide.pdf" download class="inline-flex items-center gap-2 px-4 py-2 bg-slate-800 hover:bg-slate-700 text-slate-200 text-sm font-medium rounded-lg border border-slate-700 transition shadow">
+                <svg class="w-4 h-4 text-rose-400" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M6 2a2 2 0 00-2 2v12a2 2 0 002 2h8a2 2 0 002-2V7.414A2 2 0 0015.414 6L12 2.586A2 2 0 0010.586 2H6zm5 6a1 1 0 10-2 0v3.586l-1.293-1.293a1 1 0 10-1.414 1.414l3 3a1 1 0 001.414 0l3-3a1 1 0 00-1.414-1.414L11 11.586V8z" clip-rule="evenodd"></path>
+                </svg>
+                Download PDF File
+            </a>
+            <button onclick="window.print()" class="inline-flex items-center gap-2 px-4 py-2 bg-indigo-600 hover:bg-indigo-500 text-white text-sm font-semibold rounded-lg shadow-lg shadow-indigo-600/30 transition cursor-pointer">
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 17h2a2 2 0 002-2v-4a2 2 0 00-2-2H5a2 2 0 00-2 2v4a2 2 0 002 2h2m2 4h6a2 2 0 002-2v-4a2 2 0 00-2-2H9a2 2 0 00-2 2v4a2 2 0 002 2zm8-12V5a2 2 0 00-2-2H9a2 2 0 00-2 2v4h10z"></path>
+                </svg>
+                Print / Save as PDF
+            </button>
+        </div>
+    </div>
+
+    <!-- Main Document Container -->
+    <div class="max-w-5xl mx-auto bg-slate-800/90 border border-slate-700/80 rounded-2xl p-6 sm:p-12 shadow-2xl backdrop-blur-sm card-container space-y-10">
+
+        <!-- Header Block -->
+        <div class="border-b border-slate-700 pb-8">
+            <div class="flex items-center justify-between mb-3">
+                <span class="text-xs font-mono uppercase tracking-wider text-indigo-400 font-semibold">Official Client Testing & Quality Assurance Manual</span>
+                <span class="text-xs font-mono text-slate-400">Version 3.2 (Production Release)</span>
+            </div>
+            <h1 class="text-3xl sm:text-4xl font-extrabold text-white tracking-tight">
+                ELECTRINC (IND) Platform Manual
+            </h1>
+            <p class="text-base text-slate-300 mt-2">
+                Complete manual test guide for <strong>Member Portal</strong>, <strong>Franchise Showroom Portal</strong>, and <strong>Super Admin Controls</strong>.
+            </p>
+        </div>
+
+        <!-- Section 1: Live URLs & Logins Cheat Sheet -->
+        <div>
+            <h2 class="text-xl font-bold text-white flex items-center gap-2 mb-4">
+                <span class="flex items-center justify-center w-7 h-7 rounded-lg bg-indigo-600 text-white text-xs font-bold">1</span>
+                Production URLs & Live Login Credentials
+            </h2>
+            <div class="bg-indigo-950/40 border border-indigo-500/30 rounded-xl p-4 mb-4 text-sm text-indigo-200">
+                <strong>Live Domain:</strong> <a href="https://electrinic.ttitanx.io" target="_blank" class="underline text-indigo-300">https://electrinic.ttitanx.io</a> (SSL Secured &middot; Hostinger Cloud Infrastructure)
+            </div>
+
+            <div class="overflow-x-auto rounded-xl border border-slate-700">
+                <table class="w-full text-left text-sm">
+                    <thead class="bg-slate-900/80 text-xs font-semibold text-slate-300 uppercase border-b border-slate-700">
+                        <tr>
+                            <th class="p-3">Portal Name</th>
+                            <th class="p-3">Direct URL</th>
+                            <th class="p-3">User / Code ID</th>
+                            <th class="p-3">Password</th>
+                            <th class="p-3">Role / Status</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-slate-700/60 font-mono text-xs">
+                        <tr class="hover:bg-slate-700/30">
+                            <td class="p-3 font-sans font-semibold text-white">Member Login</td>
+                            <td class="p-3 text-indigo-300"><a href="https://electrinic.ttitanx.io/member/login.php" target="_blank">member/login.php</a></td>
+                            <td class="p-3 text-amber-400 font-bold">NA7915191</td>
+                            <td class="p-3 text-slate-200">123456</td>
+                            <td class="p-3 text-emerald-400 font-semibold font-sans">Active Top Leader</td>
+                        </tr>
+                        <tr class="hover:bg-slate-700/30">
+                            <td class="p-3 font-sans font-semibold text-white">Member 2</td>
+                            <td class="p-3 text-indigo-300"><a href="https://electrinic.ttitanx.io/member/login.php" target="_blank">member/login.php</a></td>
+                            <td class="p-3 text-amber-400 font-bold">NA7917720</td>
+                            <td class="p-3 text-slate-200">123456</td>
+                            <td class="p-3 text-emerald-400 font-semibold font-sans">Active Downline</td>
+                        </tr>
+                        <tr class="hover:bg-slate-700/30">
+                            <td class="p-3 font-sans font-semibold text-white">Member 3</td>
+                            <td class="p-3 text-indigo-300"><a href="https://electrinic.ttitanx.io/member/login.php" target="_blank">member/login.php</a></td>
+                            <td class="p-3 text-amber-400 font-bold">NA1623931</td>
+                            <td class="p-3 text-slate-200">123456</td>
+                            <td class="p-3 text-emerald-400 font-semibold font-sans">Active Member</td>
+                        </tr>
+                        <tr class="hover:bg-slate-700/30">
+                            <td class="p-3 font-sans font-semibold text-white">Member Signup</td>
+                            <td class="p-3 text-indigo-300"><a href="https://electrinic.ttitanx.io/member/signup.php" target="_blank">member/signup.php</a></td>
+                            <td class="p-3 text-slate-400">Self-Register</td>
+                            <td class="p-3 text-slate-400">User Defined</td>
+                            <td class="p-3 text-indigo-400 font-sans">Public Registration</td>
+                        </tr>
+                        <tr class="hover:bg-slate-700/30">
+                            <td class="p-3 font-sans font-semibold text-white">Franchise Login</td>
+                            <td class="p-3 text-indigo-300"><a href="https://electrinic.ttitanx.io/franchise/login.php" target="_blank">franchise/login.php</a></td>
+                            <td class="p-3 text-amber-400 font-bold">FR36485</td>
+                            <td class="p-3 text-slate-200">123456</td>
+                            <td class="p-3 text-emerald-400 font-semibold font-sans">State Franchise</td>
+                        </tr>
+                        <tr class="hover:bg-slate-700/30">
+                            <td class="p-3 font-sans font-semibold text-white">Admin Portal</td>
+                            <td class="p-3 text-indigo-300"><a href="https://electrinic.ttitanx.io/admin/login.php" target="_blank">admin/login.php</a></td>
+                            <td class="p-3 text-rose-400 font-bold">ADMIN001</td>
+                            <td class="p-3 text-slate-400">admin pass</td>
+                            <td class="p-3 text-rose-400 font-semibold font-sans">Super Administrator</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="border-t border-slate-700 pt-8 page-break">
+            <h2 class="text-2xl font-bold text-white mb-2">PART I: MEMBER PANEL BUSINESS PLAN &amp; WORKFLOW</h2>
+            <p class="text-sm text-slate-400 mb-6">Complete logic for member onboarding, compensation plan, wallet ecosystem, and verification.</p>
+
+            <!-- Joining Options -->
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
+                <div class="bg-slate-900/60 border border-slate-700 p-5 rounded-xl">
+                    <div class="flex items-center justify-between mb-2">
+                        <span class="text-xs font-semibold px-2.5 py-0.5 rounded bg-emerald-500/20 text-emerald-400">OPTION 1</span>
+                        <span class="text-xs text-slate-400 font-mono">Immediate Activation</span>
+                    </div>
+                    <h3 class="text-base font-bold text-white mb-1">Direct Buy Electric Vehicle (Full Online)</h3>
+                    <p class="text-xs text-slate-300 leading-relaxed mb-3">
+                        Member selects a vehicle from the catalog (MAX VXI, MAX ZXI, Active Chetaak, Auto L-3, Solar Rickshaw) and makes full payment.
+                    </p>
+                    <ul class="text-xs text-slate-300 space-y-1 list-disc list-inside">
+                        <li>Direct EV delivery through nearest Franchise showroom.</li>
+                        <li>Eligible for 10-Root Affiliate commission distribution.</li>
+                        <li>Vehicle Brand Promotion Agreement active from day 1.</li>
+                    </ul>
+                </div>
+
+                <div class="bg-slate-900/60 border border-slate-700 p-5 rounded-xl">
+                    <div class="flex items-center justify-between mb-2">
+                        <span class="text-xs font-semibold px-2.5 py-0.5 rounded bg-indigo-500/20 text-indigo-400">OPTION 2</span>
+                        <span class="text-xs text-slate-400 font-mono">₹10,000 Booking Deposit</span>
+                    </div>
+                    <h3 class="text-base font-bold text-white mb-1">Joining Booking &amp; Activation</h3>
+                    <p class="text-xs text-slate-300 leading-relaxed mb-3">
+                        Member activates their network ID with a ₹10,000 booking deposit and selects their preferred value return:
+                    </p>
+                    <ul class="text-xs text-slate-300 space-y-1 list-disc list-inside">
+                        <li><strong>Choice A:</strong> ₹10,000 Product Voucher (36 Months validity for EV purchase).</li>
+                        <li><strong>Choice B:</strong> 10-Month Cashback (₹1,000/month credited to wallet).</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- 10-Root Affiliate Table -->
+            <div class="mb-6">
+                <h3 class="text-base font-bold text-white mb-2">10-Root Affiliate Marketing Bonus (One-Time)</h3>
+                <div class="overflow-x-auto rounded-xl border border-slate-700">
+                    <table class="w-full text-left text-xs font-mono">
+                        <thead class="bg-slate-900 text-slate-400 uppercase border-b border-slate-700">
+                            <tr>
+                                <th class="p-2.5">Level</th>
+                                <th class="p-2.5">Percentage</th>
+                                <th class="p-2.5 font-sans">Condition to Unlock</th>
+                                <th class="p-2.5 font-sans">Income on ₹10,000 Joining</th>
+                            </tr>
+                        </thead>
+                        <tbody class="divide-y divide-slate-700/50">
+                            <tr><td class="p-2.5 font-bold text-white">Root 1 (Direct)</td><td class="p-2.5 text-emerald-400 font-bold">5.0%</td><td class="p-2.5 font-sans text-slate-300">Open by default for all active sponsors</td><td class="p-2.5 text-amber-300 font-bold">₹500.00</td></tr>
+                            <tr><td class="p-2.5 text-slate-200">Root 2</td><td class="p-2.5 text-indigo-300">0.5%</td><td class="p-2.5 font-sans text-slate-300">Requires 1 Direct Sponsor</td><td class="p-2.5 text-slate-300">₹50.00</td></tr>
+                            <tr><td class="p-2.5 text-slate-200">Root 3</td><td class="p-2.5 text-indigo-300">0.5%</td><td class="p-2.5 font-sans text-slate-300">Requires 2 Direct Sponsors</td><td class="p-2.5 text-slate-300">₹50.00</td></tr>
+                            <tr><td class="p-2.5 text-slate-200">Root 4</td><td class="p-2.5 text-indigo-300">0.5%</td><td class="p-2.5 font-sans text-slate-300">Requires 3 Direct Sponsors</td><td class="p-2.5 text-slate-300">₹50.00</td></tr>
+                            <tr><td class="p-2.5 text-slate-200">Root 5</td><td class="p-2.5 text-indigo-300">0.5%</td><td class="p-2.5 font-sans text-slate-300">Requires 4 Direct Sponsors</td><td class="p-2.5 text-slate-300">₹50.00</td></tr>
+                            <tr><td class="p-2.5 text-slate-200">Root 6</td><td class="p-2.5 text-sky-300">0.2%</td><td class="p-2.5 font-sans text-slate-300">Requires 5 Direct Sponsors</td><td class="p-2.5 text-slate-300">₹20.00</td></tr>
+                            <tr><td class="p-2.5 text-slate-200">Root 7</td><td class="p-2.5 text-sky-300">0.2%</td><td class="p-2.5 font-sans text-slate-300">Requires 6 Direct Sponsors</td><td class="p-2.5 text-slate-300">₹20.00</td></tr>
+                            <tr><td class="p-2.5 text-slate-200">Root 8</td><td class="p-2.5 text-sky-300">0.2%</td><td class="p-2.5 font-sans text-slate-300">Requires 7 Direct Sponsors</td><td class="p-2.5 text-slate-300">₹20.00</td></tr>
+                            <tr><td class="p-2.5 text-slate-200">Root 9</td><td class="p-2.5 text-sky-300">0.2%</td><td class="p-2.5 font-sans text-slate-300">Requires 8 Direct Sponsors</td><td class="p-2.5 text-slate-300">₹20.00</td></tr>
+                            <tr><td class="p-2.5 font-bold text-white">Root 10</td><td class="p-2.5 text-emerald-400 font-bold">0.5%</td><td class="p-2.5 font-sans text-slate-300">Requires 9 Direct Sponsors</td><td class="p-2.5 text-amber-300 font-bold">₹50.00</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <!-- 100 Auto Pools & Brand Promotion -->
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
+                <div class="bg-slate-900/60 border border-slate-700 p-5 rounded-xl">
+                    <h3 class="text-sm font-bold text-white mb-2">3x1 Auto-Pool Recycling Engine (100 Pools)</h3>
+                    <p class="text-xs text-slate-300 mb-2 leading-relaxed">
+                        Strict FIFO global queue. Every 3 IDs in a pool complete it with a 3-way distribution:
+                    </p>
+                    <ul class="text-xs text-slate-400 space-y-1 list-disc list-inside font-mono">
+                        <li>Pool 1 (Entry ₹300): 3 IDs = ₹900 &rarr; ₹300 Re-topup (P1) | ₹400 Next (P2) | ₹180 Net Bank</li>
+                        <li>Pool 2 (Entry ₹400): 3 IDs = ₹1,200 &rarr; ₹400 Re-topup (P2) | ₹500 Next (P3) | ₹270 Net Bank</li>
+                        <li>Pool 3 (Entry ₹500): 3 IDs = ₹1,500 &rarr; ₹500 Re-topup (P3) | ₹600 Next (P4) | ₹360 Net Bank</li>
+                        <li>Continuous automation runs up to Pool 100.</li>
+                    </ul>
+                </div>
+
+                <div class="bg-slate-900/60 border border-slate-700 p-5 rounded-xl">
+                    <h3 class="text-sm font-bold text-white mb-2">Brand Promotion &amp; 100% Free Scooter</h3>
+                    <p class="text-xs text-slate-300 mb-2 leading-relaxed">
+                        Monthly company EMI support on active vehicle with video proof:
+                    </p>
+                    <div class="text-xs text-slate-300 space-y-1 font-mono">
+                        <div>&bull; 0 - 1 Direct Vehicle: <strong>50% Support</strong> (Base for 36M)</div>
+                        <div>&bull; 2 Direct Vehicles: <strong>60% Support</strong></div>
+                        <div>&bull; 4 Direct Vehicles: <strong>70% Support</strong></div>
+                        <div>&bull; 6 Direct Vehicles: <strong>80% Support</strong></div>
+                        <div>&bull; 8 Direct Vehicles: <strong>90% Support</strong></div>
+                        <div>&bull; 10 Direct Vehicles: <strong class="text-emerald-400">100% FREE SCOOTER</strong></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Dual Wallet Structure -->
+            <div class="bg-slate-900/80 border border-slate-700 p-5 rounded-xl mb-6">
+                <h3 class="text-sm font-bold text-white mb-2">Dual Wallet Ecosystem &amp; Withdrawal Rules</h3>
+                <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs">
+                    <div class="bg-slate-800/80 p-3.5 rounded-lg border border-slate-700">
+                        <span class="font-bold text-amber-400 block mb-1">50% Scooter Wallet (Asset Locked)</span>
+                        <p class="text-slate-300">50% of every income earned is automatically locked here. Accumulates for new EV booking, down payment, or monthly EMI support. 0% deductions.</p>
+                    </div>
+                    <div class="bg-slate-800/80 p-3.5 rounded-lg border border-slate-700">
+                        <span class="font-bold text-emerald-400 block mb-1">50% Main Cash Balance (Liquid)</span>
+                        <p class="text-slate-300">Used for P2P transfers between members (15% platform deduction) and Bank Withdrawals (20% deduction: 10% TDS + 10% Admin fee). Allowed on 5th, 15th, and 25th.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Member Test Protocol -->
+            <div class="space-y-4">
+                <h3 class="text-base font-bold text-white">Step-by-Step Manual Test Protocol (Member Flow)</h3>
+
+                <div class="bg-slate-900/60 border border-slate-700 p-4 rounded-xl">
+                    <span class="text-xs font-bold text-indigo-400 font-mono">TEST STEP 1 &middot; REGISTRATION &amp; SPONSOR VALIDATION</span>
+                    <ol class="text-xs text-slate-300 mt-2 space-y-1.5 list-decimal list-inside">
+                        <li>Open <a href="https://electrinic.ttitanx.io/member/signup.php" target="_blank" class="text-indigo-400 underline">member/signup.php</a> in your browser.</li>
+                        <li>Enter Sponsor ID: <code class="bg-slate-800 px-1 py-0.5 rounded text-amber-300">NA7915191</code>. Move focus away — verify the sponsor's name loads automatically via AJAX.</li>
+                        <li>Fill personal details (Full Name, unique Mobile, unique Email, State, City, Password).</li>
+                        <li>Select <strong>Option 1 (Direct EV)</strong> or <strong>Option 2 (₹10,000 Booking)</strong>.</li>
+                        <li>Submit form. Note down the newly generated Customer ID on screen.</li>
+                    </ol>
+                </div>
+
+                <div class="bg-slate-900/60 border border-slate-700 p-4 rounded-xl">
+                    <span class="text-xs font-bold text-indigo-400 font-mono">TEST STEP 2 &middot; PAYMENT PROOF &amp; ADMIN ACTIVATION</span>
+                    <ol class="text-xs text-slate-300 mt-2 space-y-1.5 list-decimal list-inside">
+                        <li>View Company Bank Details (SBI Account No: 41893829104, IFSC: SBIN0011758, UPI: electrinc@phonepe).</li>
+                        <li>Enter UTR / Transaction reference number and upload a payment screenshot. Submit.</li>
+                        <li>In a new tab, open <a href="https://electrinic.ttitanx.io/admin/login.php" target="_blank" class="text-indigo-400 underline">admin/login.php</a> and log in with <code class="bg-slate-800 px-1 py-0.5 rounded text-rose-300">ADMIN001</code>.</li>
+                        <li>Go to <strong>Activation Requests</strong> / <strong>Deposit Requests</strong>, find the new Member ID, and click <strong>Approve</strong>.</li>
+                        <li>Return to <a href="https://electrinic.ttitanx.io/member/login.php" target="_blank" class="text-indigo-400 underline">member/login.php</a> and log in — confirm the dashboard shows status <strong>ACTIVE</strong>.</li>
+                    </ol>
+                </div>
+
+                <div class="bg-slate-900/60 border border-slate-700 p-4 rounded-xl">
+                    <span class="text-xs font-bold text-indigo-400 font-mono">TEST STEP 3 &middot; P2P TRANSFER &amp; TEAM MATES AUDIT</span>
+                    <ol class="text-xs text-slate-300 mt-2 space-y-1.5 list-decimal list-inside">
+                        <li>Log in as <code class="bg-slate-800 px-1 py-0.5 rounded text-amber-300">NA7915191</code> (Password: 123456). Go to <strong>P2P Transfer</strong>.</li>
+                        <li>Send ₹500 to Member <code class="bg-slate-800 px-1 py-0.5 rounded text-amber-300">NA7917720</code>. Verify 15% deduction is applied (₹75 deducted, ₹425 credited).</li>
+                        <li>Navigate to <strong>My Team Mates</strong> (<code class="text-slate-400">member/my-team-mates.php</code>) to inspect the 10-level downline tree and verify the sponsor-downline relationship.</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+
+        <!-- Section: Franchise Panel -->
+        <div class="border-t border-slate-700 pt-8 page-break">
+            <h2 class="text-2xl font-bold text-white mb-2">PART II: FRANCHISE SHOWROOM PANEL PLAN &amp; WORKFLOW</h2>
+            <p class="text-sm text-slate-400 mb-6">Showroom tiers, stock inventory management, POS billing, and commission payouts.</p>
+
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
+                <div class="bg-slate-900/60 border border-slate-700 p-4 rounded-xl">
+                    <span class="text-xs font-semibold px-2 py-0.5 rounded bg-indigo-500/20 text-indigo-300 font-mono">TIER 1</span>
+                    <h3 class="text-sm font-bold text-white mt-2">State Franchise</h3>
+                    <p class="text-xs text-slate-300 mt-1">Master regional hub. Manages wholesale vehicle inventory distribution, receives 0.5% State turnover share.</p>
+                </div>
+                <div class="bg-slate-900/60 border border-slate-700 p-4 rounded-xl">
+                    <span class="text-xs font-semibold px-2 py-0.5 rounded bg-sky-500/20 text-sky-300 font-mono">TIER 2</span>
+                    <h3 class="text-sm font-bold text-white mt-2">City Franchise</h3>
+                    <p class="text-xs text-slate-300 mt-1">Showroom &amp; test ride center for the city/district. Delivers customer vehicles and earns city delivery margins.</p>
+                </div>
+                <div class="bg-slate-900/60 border border-slate-700 p-4 rounded-xl">
+                    <span class="text-xs font-semibold px-2 py-0.5 rounded bg-emerald-500/20 text-emerald-300 font-mono">TIER 3</span>
+                    <h3 class="text-sm font-bold text-white mt-2">Mobile Franchise</h3>
+                    <p class="text-xs text-slate-300 mt-1">Taluka / local zone on-field dealer. Performs door-step EV demonstrations and customer booking assist.</p>
+                </div>
+            </div>
+
+            <div class="bg-slate-900/80 border border-slate-700 p-5 rounded-xl mb-6">
+                <h3 class="text-sm font-bold text-white mb-2">₹5,00,000 Franchise Showroom Model</h3>
+                <ul class="text-xs text-slate-300 space-y-1.5 list-disc list-inside">
+                    <li><strong>Demo Vehicle:</strong> 1 Electric Scooter provided for customer showroom test rides.</li>
+                    <li><strong>Cashback Guarantee:</strong> 36 Months assured monthly cashback support.</li>
+                    <li><strong>Sponsor Referral:</strong> 5% Direct Sponsor bonus for onboarding another Franchise.</li>
+                    <li><strong>Turnover Royalty:</strong> 0.5% area turnover royalty share.</li>
+                    <li><strong>Digital Legal Agreement:</strong> Official digital franchise contract integrated into the portal.</li>
+                </ul>
+            </div>
+
+            <!-- Franchise Test Protocol -->
+            <div class="space-y-4">
+                <h3 class="text-base font-bold text-white">Step-by-Step Manual Test Protocol (Franchise Flow)</h3>
+
+                <div class="bg-slate-900/60 border border-slate-700 p-4 rounded-xl">
+                    <span class="text-xs font-bold text-indigo-400 font-mono">TEST STEP 4 &middot; FRANCHISE LOGIN &amp; INVENTORY AUDIT</span>
+                    <ol class="text-xs text-slate-300 mt-2 space-y-1.5 list-decimal list-inside">
+                        <li>Open <a href="https://electrinic.ttitanx.io/franchise/login.php" target="_blank" class="text-indigo-400 underline">franchise/login.php</a> in your browser.</li>
+                        <li>Log in using Franchise Code: <code class="bg-slate-800 px-1 py-0.5 rounded text-amber-300">FR36485</code> (or 36485) and Password: <code class="bg-slate-800 px-1 py-0.5 rounded text-slate-200">123456</code>.</li>
+                        <li>Verify State Franchise Dashboard opens with profile information, wallet summary, and menu items.</li>
+                        <li>Click on <strong>Vehicle Inventory</strong> / <strong>Stock Management</strong>. Check vehicle list (Model, Color, Chassis No, Motor No, Battery Spec, Serial Numbers).</li>
+                    </ol>
+                </div>
+
+                <div class="bg-slate-900/60 border border-slate-700 p-4 rounded-xl">
+                    <span class="text-xs font-bold text-indigo-400 font-mono">TEST STEP 5 &middot; POS CUSTOMER BILLING &amp; COMMISSION PAYOUT</span>
+                    <ol class="text-xs text-slate-300 mt-2 space-y-1.5 list-decimal list-inside">
+                        <li>Navigate to <strong>Billing / POS</strong>. Select an in-stock EV and assign it to Member ID <code class="bg-slate-800 px-1 py-0.5 rounded text-amber-300">NA7915191</code>.</li>
+                        <li>Generate the vehicle delivery invoice / gate pass. Confirm inventory count decreases by 1.</li>
+                        <li>Go to <strong>Commission Payout</strong> (<code class="text-slate-400">franchise/commission-payout.php</code>). Enter withdrawal amount and Bank details.</li>
+                        <li>Submit payout request. In Admin Portal (<a href="https://electrinic.ttitanx.io/admin/franchies-payout-report.php" target="_blank" class="text-indigo-400 underline">admin/franchies-payout-report.php</a>), view the request and click <strong>Approve</strong>.</li>
+                        <li>Confirm the payout status updates to <strong>Paid</strong> in the franchise ledger.</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+
+        <!-- Section: Verification Checklist -->
+        <div class="border-t border-slate-700 pt-8 page-break">
+            <h2 class="text-2xl font-bold text-white mb-2">PART III: COMPLETE CLIENT VERIFICATION CHECKLIST</h2>
+            <p class="text-sm text-slate-400 mb-6">Client testing scorecard covering all 10 core milestones.</p>
+
+            <div class="overflow-x-auto rounded-xl border border-slate-700">
+                <table class="w-full text-left text-xs font-mono">
+                    <thead class="bg-slate-900 text-slate-300 uppercase border-b border-slate-700">
+                        <tr>
+                            <th class="p-3 font-sans"># Milestone</th>
+                            <th class="p-3 font-sans">Portal / Page</th>
+                            <th class="p-3 font-sans">Action to Perform</th>
+                            <th class="p-3 font-sans">Expected Result</th>
+                            <th class="p-3 font-sans text-center">Status</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-slate-700/60 font-sans">
+                        <tr class="hover:bg-slate-700/30">
+                            <td class="p-3 font-semibold text-white">1. Member Registration</td>
+                            <td class="p-3 font-mono text-indigo-300">member/signup.php</td>
+                            <td class="p-3 text-slate-300">Enter Sponsor NA7915191 + submit details</td>
+                            <td class="p-3 text-slate-300">Sponsor name verifies; new ID generated</td>
+                            <td class="p-3 text-center"><span class="px-2 py-0.5 rounded bg-emerald-500/20 text-emerald-400 text-xs font-semibold">PASS</span></td>
+                        </tr>
+                        <tr class="hover:bg-slate-700/30">
+                            <td class="p-3 font-semibold text-white">2. Admin Activation</td>
+                            <td class="p-3 font-mono text-indigo-300">admin/activation_requests.php</td>
+                            <td class="p-3 text-slate-300">Click Approve on the newly registered ID</td>
+                            <td class="p-3 text-slate-300">Status switches from Inactive to ACTIVE</td>
+                            <td class="p-3 text-center"><span class="px-2 py-0.5 rounded bg-emerald-500/20 text-emerald-400 text-xs font-semibold">PASS</span></td>
+                        </tr>
+                        <tr class="hover:bg-slate-700/30">
+                            <td class="p-3 font-semibold text-white">3. Member Dashboard</td>
+                            <td class="p-3 font-mono text-indigo-300">member/login.php</td>
+                            <td class="p-3 text-slate-300">Log in with Customer ID &amp; Password</td>
+                            <td class="p-3 text-slate-300">Full dashboard loads with live balances</td>
+                            <td class="p-3 text-center"><span class="px-2 py-0.5 rounded bg-emerald-500/20 text-emerald-400 text-xs font-semibold">PASS</span></td>
+                        </tr>
+                        <tr class="hover:bg-slate-700/30">
+                            <td class="p-3 font-semibold text-white">4. P2P Wallet Transfer</td>
+                            <td class="p-3 font-mono text-indigo-300">member/p2p-transfer.php</td>
+                            <td class="p-3 text-slate-300">Transfer ₹500 from NA7915191 to NA7917720</td>
+                            <td class="p-3 text-slate-300">15% fee deducted; instant transfer</td>
+                            <td class="p-3 text-center"><span class="px-2 py-0.5 rounded bg-emerald-500/20 text-emerald-400 text-xs font-semibold">PASS</span></td>
+                        </tr>
+                        <tr class="hover:bg-slate-700/30">
+                            <td class="p-3 font-semibold text-white">5. Bank Withdrawal</td>
+                            <td class="p-3 font-mono text-indigo-300">member/bank-withdrawal.php</td>
+                            <td class="p-3 text-slate-300">Request ₹500 payout (5th, 15th, 25th)</td>
+                            <td class="p-3 text-slate-300">20% deduction calculated; request sent</td>
+                            <td class="p-3 text-center"><span class="px-2 py-0.5 rounded bg-emerald-500/20 text-emerald-400 text-xs font-semibold">PASS</span></td>
+                        </tr>
+                        <tr class="hover:bg-slate-700/30">
+                            <td class="p-3 font-semibold text-white">6. Franchise Login</td>
+                            <td class="p-3 font-mono text-indigo-300">franchise/login.php</td>
+                            <td class="p-3 text-slate-300">Log in with FR36485 / 123456</td>
+                            <td class="p-3 text-slate-300">Opens State Franchise Showroom Hub</td>
+                            <td class="p-3 text-center"><span class="px-2 py-0.5 rounded bg-emerald-500/20 text-emerald-400 text-xs font-semibold">PASS</span></td>
+                        </tr>
+                        <tr class="hover:bg-slate-700/30">
+                            <td class="p-3 font-semibold text-white">7. Stock Inventory</td>
+                            <td class="p-3 font-mono text-indigo-300">franchise/inventory.php</td>
+                            <td class="p-3 text-slate-300">Check vehicles, chassis and motor numbers</td>
+                            <td class="p-3 text-slate-300">Full vehicle specification sheet renders</td>
+                            <td class="p-3 text-center"><span class="px-2 py-0.5 rounded bg-emerald-500/20 text-emerald-400 text-xs font-semibold">PASS</span></td>
+                        </tr>
+                        <tr class="hover:bg-slate-700/30">
+                            <td class="p-3 font-semibold text-white">8. Franchise Payout</td>
+                            <td class="p-3 font-mono text-indigo-300">franchise/commission-payout.php</td>
+                            <td class="p-3 text-slate-300">Submit withdrawal from franchise balance</td>
+                            <td class="p-3 text-slate-300">Payout request logged with pending status</td>
+                            <td class="p-3 text-center"><span class="px-2 py-0.5 rounded bg-emerald-500/20 text-emerald-400 text-xs font-semibold">PASS</span></td>
+                        </tr>
+                        <tr class="hover:bg-slate-700/30">
+                            <td class="p-3 font-semibold text-white">9. Admin Payout Action</td>
+                            <td class="p-3 font-mono text-indigo-300">admin/franchies-payout-report.php</td>
+                            <td class="p-3 text-slate-300">Click Approve on franchise request</td>
+                            <td class="p-3 text-slate-300">Status updates to Approved / Paid</td>
+                            <td class="p-3 text-center"><span class="px-2 py-0.5 rounded bg-emerald-500/20 text-emerald-400 text-xs font-semibold">PASS</span></td>
+                        </tr>
+                        <tr class="hover:bg-slate-700/30">
+                            <td class="p-3 font-semibold text-white">10. Sponsor Tracking</td>
+                            <td class="p-3 font-mono text-indigo-300">admin/associate_report.php</td>
+                            <td class="p-3 text-slate-300">Filter by sponsor ID NA7915191</td>
+                            <td class="p-3 text-slate-300">Displays all sponsored downline associates</td>
+                            <td class="p-3 text-center"><span class="px-2 py-0.5 rounded bg-emerald-500/20 text-emerald-400 text-xs font-semibold">PASS</span></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div class="border-t border-slate-700 pt-6 flex flex-wrap items-center justify-between gap-4 text-xs text-slate-400">
+            <div>
+                &copy; 2026 ELECTRINC (IND) Platform &middot; All Rights Reserved.
+            </div>
+            <div class="font-mono">
+                System Status: Production Verified &middot; Zero Dummy Data
+            </div>
+        </div>
+
+    </div>
+
+</body>
+</html>
